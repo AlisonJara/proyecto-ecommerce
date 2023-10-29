@@ -1,0 +1,622 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #071e26;
+  width: 4305px;
+  height: 2726px;
+  position: relative;
+  overflow: hidden;
+}
+.group-1 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-1 {
+  background: linear-gradient(
+    180deg,
+    rgba(6, 57, 76, 1) 43.75%,
+    rgba(6, 57, 76, 0) 91.66666865348816%
+  );
+  width: 1129px;
+  height: 2726px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.ellipse-1 {
+  border-radius: 50%;
+  width: 921px;
+  height: 776px;
+  position: absolute;
+  left: 127px;
+  top: 52px;
+}
+.sushi-sun {
+  color: #eb649f;
+  text-align: center;
+  font: 800 96px "Inter", sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 295px;
+  top: 916px;
+  width: 538px;
+  height: 115px;
+}
+.mi-perfil {
+  color: #ffffff;
+  text-align: left;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 131px;
+  top: 1420px;
+  width: 921px;
+  height: 75px;
+}
+.av-valpara-so-198 {
+  color: #ffffff;
+  text-align: center;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 127px;
+  top: 1079px;
+  width: 921px;
+  height: 75px;
+}
+.mis-productos {
+  color: #ffffff;
+  text-align: left;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 131px;
+  top: 1571px;
+  width: 921px;
+  height: 75px;
+}
+.ofertas {
+  color: #ffffff;
+  text-align: left;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 127px;
+  top: 1722px;
+  width: 921px;
+  height: 75px;
+}
+.configuraciones {
+  color: #ffffff;
+  text-align: left;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 127px;
+  top: 2024px;
+  width: 921px;
+  height: 75px;
+}
+.mensajes {
+  color: #ffffff;
+  text-align: left;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 127px;
+  top: 1873px;
+  width: 921px;
+  height: 75px;
+}
+.salir {
+  color: #ffffff;
+  text-align: left;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 127px;
+  top: 2175px;
+  width: 921px;
+  height: 75px;
+}
+._3187509-3173493 {
+  color: #ffffff;
+  text-align: center;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 162px;
+  top: 1154px;
+  width: 851px;
+  height: 70px;
+}
+._3187509-3173493-span {
+  color: #ffffff;
+  font: 800 64px "Inter", sans-serif;
+  text-decoration: underline;
+}
+._3187509-3173493-span2 {
+  color: #ffffff;
+  font: 800 64px "Inter", sans-serif;
+}
+._3187509-3173493-span3 {
+  color: #ffffff;
+  font: 800 64px "Inter", sans-serif;
+  text-decoration: underline;
+}
+.group-2 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-2 {
+  background: #1ea2b4;
+  width: 590.43px;
+  height: 99.7px;
+  position: absolute;
+  left: 1276px;
+  top: 142.3px;
+}
+.pedidos {
+  color: #ffffff;
+  text-align: center;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 1279.43px;
+  top: 146px;
+  width: 587.73px;
+  height: 96px;
+}
+.rectangle-3 {
+  background: #06394c;
+  width: 590.43px;
+  height: 99.7px;
+  position: absolute;
+  left: 1925.08px;
+  top: 142.3px;
+}
+.historial {
+  color: #ffffff;
+  text-align: center;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 1930.04px;
+  top: 146px;
+  width: 587.73px;
+  height: 96px;
+}
+.rectangle-4 {
+  background: #06394c;
+  width: 590.43px;
+  height: 99.7px;
+  position: absolute;
+  left: 2574.16px;
+  top: 142.3px;
+}
+.reservas {
+  color: #ffffff;
+  text-align: center;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 2581.8px;
+  top: 146px;
+  width: 587.73px;
+  height: 96px;
+}
+.rectangle-5 {
+  position: absolute;
+  left: 3223.24px;
+  top: 135px;
+  overflow: visible;
+}
+.centro-ayuda {
+  color: #ffffff;
+  text-align: center;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 3231.27px;
+  top: 146px;
+  width: 587.73px;
+  height: 96px;
+}
+.frame-1 {
+  background: #071e26;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px;
+  width: 2543px;
+  height: 2066px;
+  position: absolute;
+  left: 1276px;
+  top: 384px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow-y: auto;
+}
+.group-3 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-6 {
+  background: #06394c;
+  width: 2506px;
+  height: 364px;
+  position: absolute;
+  left: 18px;
+  top: 30px;
+}
+.ellipse-2 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 359px;
+  height: 364px;
+  position: absolute;
+  left: 18px;
+  top: 30px;
+}
+.shopping-bag-fill-0-wght-400-grad-0-opsz-24-1 {
+  width: 93px;
+  height: 142px;
+  position: absolute;
+  left: 151px;
+  top: 141px;
+}
+.estado-activo {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 118px;
+  width: 446px;
+  height: 46px;
+}
+.fecha-16-08-2023 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 169px;
+  width: 446px;
+  height: 46px;
+}
+.ver-lista {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 857px;
+  top: 293px;
+  width: 191px;
+  height: 46px;
+}
+.hora-19-49 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 990px;
+  top: 169px;
+  width: 446px;
+  height: 46px;
+}
+.compra {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 67px;
+  width: 446px;
+  height: 46px;
+}
+.group-4 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-62 {
+  background: #06394c;
+  width: 2506px;
+  height: 364px;
+  position: absolute;
+  left: 18px;
+  top: 441px;
+}
+.ellipse-22 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 359px;
+  height: 364px;
+  position: absolute;
+  left: 18px;
+  top: 441px;
+}
+.shopping-bag-fill-0-wght-400-grad-0-opsz-24-12 {
+  width: 93px;
+  height: 142px;
+  position: absolute;
+  left: 151px;
+  top: 552px;
+}
+.estado-activo2 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 529px;
+  width: 446px;
+  height: 46px;
+}
+.fecha-16-08-20232 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 580px;
+  width: 446px;
+  height: 46px;
+}
+.ver-lista2 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 857px;
+  top: 704px;
+  width: 191px;
+  height: 46px;
+}
+.hora-19-57 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 990px;
+  top: 580px;
+  width: 446px;
+  height: 46px;
+}
+.compra2 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 478px;
+  width: 446px;
+  height: 46px;
+}
+.group-5 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-63 {
+  background: #06394c;
+  width: 2506px;
+  height: 364px;
+  position: absolute;
+  left: 18px;
+  top: 852px;
+}
+.ellipse-23 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 359px;
+  height: 364px;
+  position: absolute;
+  left: 18px;
+  top: 852px;
+}
+.shopping-bag-fill-0-wght-400-grad-0-opsz-24-13 {
+  width: 93px;
+  height: 142px;
+  position: absolute;
+  left: 151px;
+  top: 963px;
+}
+.estado-finalizado {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 940px;
+  width: 446px;
+  height: 46px;
+}
+.fecha-16-08-20233 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 991px;
+  width: 446px;
+  height: 46px;
+}
+.ver-lista3 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 857px;
+  top: 1115px;
+  width: 191px;
+  height: 46px;
+}
+.hora-19-23 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 990px;
+  top: 991px;
+  width: 446px;
+  height: 46px;
+}
+.reserva {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 889px;
+  width: 446px;
+  height: 46px;
+}
+.group-6 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-64 {
+  background: #06394c;
+  width: 2506px;
+  height: 364px;
+  position: absolute;
+  left: 18px;
+  top: 1263px;
+}
+.ellipse-24 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 359px;
+  height: 364px;
+  position: absolute;
+  left: 18px;
+  top: 1263px;
+}
+.shopping-bag-fill-0-wght-400-grad-0-opsz-24-14 {
+  width: 93px;
+  height: 142px;
+  position: absolute;
+  left: 151px;
+  top: 1374px;
+}
+.estado-finalizado2 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 1351px;
+  width: 446px;
+  height: 46px;
+}
+.fecha-16-08-20234 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 1402px;
+  width: 446px;
+  height: 46px;
+}
+.ver-lista4 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 857px;
+  top: 1526px;
+  width: 191px;
+  height: 46px;
+}
+.hora-19-17 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 990px;
+  top: 1402px;
+  width: 446px;
+  height: 46px;
+}
+.compra3 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 1300px;
+  width: 446px;
+  height: 46px;
+}
+.group-7 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-65 {
+  background: #06394c;
+  width: 2506px;
+  height: 364px;
+  position: absolute;
+  left: 18px;
+  top: 1674px;
+}
+.ellipse-25 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 359px;
+  height: 364px;
+  position: absolute;
+  left: 18px;
+  top: 1674px;
+}
+.shopping-bag-fill-0-wght-400-grad-0-opsz-24-15 {
+  width: 93px;
+  height: 142px;
+  position: absolute;
+  left: 151px;
+  top: 1785px;
+}
+.estado-finalizado3 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 1762px;
+  width: 446px;
+  height: 46px;
+}
+.fecha-16-08-20235 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 1813px;
+  width: 446px;
+  height: 46px;
+}
+.ver-lista5 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 857px;
+  top: 1937px;
+  width: 191px;
+  height: 46px;
+}
+.hora-19-09 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 990px;
+  top: 1813px;
+  width: 446px;
+  height: 46px;
+}
+.reserva2 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 1711px;
+  width: 446px;
+  height: 46px;
+}

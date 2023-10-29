@@ -1,0 +1,965 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #071e26;
+  width: 4305px;
+  height: 2726px;
+  position: relative;
+  overflow: hidden;
+}
+.busqueda {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-7 {
+  background: #6a97b8;
+  width: 2110px;
+  height: 102px;
+  position: absolute;
+  left: 2003px;
+  top: 259px;
+}
+.search-fill-0-wght-400-grad-0-opsz-24-1 {
+  width: 101.18px;
+  height: 102px;
+  position: absolute;
+  left: 4011.82px;
+  top: 259px;
+}
+.filtrar {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 1515px;
+  top: 259px;
+  width: 200px;
+  height: 41px;
+}
+.orden-m-s-recientes {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 1515px;
+  top: 330px;
+  width: 488px;
+  height: 41px;
+}
+.perfil {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-1 {
+  background: linear-gradient(
+    180deg,
+    rgba(6, 57, 76, 1) 43.75%,
+    rgba(6, 57, 76, 0) 91.66666865348816%
+  );
+  width: 850px;
+  height: 2726px;
+  position: absolute;
+  left: 0px;
+  top: 15px;
+}
+.ellipse-1 {
+  position: absolute;
+  left: 96px;
+  top: 67px;
+  overflow: visible;
+}
+.info-opciones {
+  width: 696.41px;
+  height: 1172px;
+  position: static;
+}
+.mi-perfil {
+  color: #ffffff;
+  text-align: left;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 77.01px;
+  top: 633px;
+  width: 693.4px;
+  height: 75px;
+}
+.mis-compras {
+  color: #ffffff;
+  text-align: left;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 77.01px;
+  top: 784px;
+  width: 693.4px;
+  height: 75px;
+}
+.mis-reservas {
+  color: #ffffff;
+  text-align: left;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 74px;
+  top: 935px;
+  width: 693.4px;
+  height: 75px;
+}
+.ayuda {
+  color: #ffffff;
+  text-align: left;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 74px;
+  top: 1237px;
+  width: 693.4px;
+  height: 75px;
+}
+.historial-de-mensajes {
+  color: #ffffff;
+  text-align: left;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 74px;
+  top: 1086px;
+  width: 693.4px;
+  height: 75px;
+}
+.favoritos {
+  color: #ffffff;
+  text-align: left;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 77.01px;
+  top: 1388px;
+  width: 693.4px;
+  height: 75px;
+}
+.configuraciones {
+  color: #ffffff;
+  text-align: left;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 74px;
+  top: 1730px;
+  width: 693.4px;
+  height: 75px;
+}
+.mensajes {
+  color: #ffffff;
+  text-align: left;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 74px;
+  top: 1563px;
+  width: 693.4px;
+  height: 75px;
+}
+.salir {
+  color: #ffffff;
+  text-align: left;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 74px;
+  top: 2583px;
+  width: 693.4px;
+  height: 75px;
+}
+.opciones {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-8 {
+  background: #0c4383;
+  width: 457.23px;
+  height: 62px;
+  position: absolute;
+  left: 1515px;
+  top: 67px;
+}
+.para-mi {
+  color: #ffffff;
+  text-align: center;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 1522.31px;
+  top: 70px;
+  width: 449.92px;
+  height: 59px;
+}
+.rectangle-9 {
+  background: #0c4383;
+  width: 457.23px;
+  height: 62px;
+  position: absolute;
+  left: 2054.69px;
+  top: 67px;
+}
+.ofertas {
+  color: #ffffff;
+  text-align: center;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 2062px;
+  top: 70px;
+  width: 449.92px;
+  height: 59px;
+}
+.rectangle-10 {
+  background: #0c4383;
+  width: 457.23px;
+  height: 62px;
+  position: absolute;
+  left: 2594.39px;
+  top: 67px;
+}
+.m-s-comprados {
+  color: #ffffff;
+  text-align: center;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 2601.69px;
+  top: 67px;
+  width: 449.92px;
+  height: 59px;
+}
+.rectangle-13 {
+  background: #0c4383;
+  width: 288px;
+  height: 62px;
+  position: absolute;
+  left: 903px;
+  top: 64px;
+}
+.inicio {
+  color: #ffffff;
+  text-align: center;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 908px;
+  top: 64px;
+  width: 283px;
+  height: 59px;
+}
+.rectangle-12 {
+  background: #0c4383;
+  width: 358px;
+  height: 62px;
+  position: absolute;
+  left: 3773px;
+  top: 67px;
+}
+.mi-cesta {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 3779px;
+  top: 70px;
+  width: 352px;
+  height: 59px;
+}
+.shopping-cart-fill-0-wght-300-grad-200-opsz-48-1 {
+  width: 71px;
+  height: 53px;
+  position: absolute;
+  left: 4046px;
+  top: 73px;
+}
+.busca-tu-compra {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 2040px;
+  top: 280px;
+  width: 892px;
+  height: 50px;
+}
+.frame-1 {
+  background: #071e26;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px;
+  width: 2543px;
+  height: 2066px;
+  position: absolute;
+  left: 1514px;
+  top: 540px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow-y: auto;
+}
+.group-7 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-6 {
+  background: #06394c;
+  width: 2506px;
+  height: 364px;
+  position: absolute;
+  left: 18px;
+  top: 1674px;
+}
+.ellipse-2 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 359px;
+  height: 364px;
+  position: absolute;
+  left: 18px;
+  top: 1674px;
+}
+.estado-finalizado {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 1762px;
+  width: 446px;
+  height: 46px;
+}
+.fecha-16-08-2023 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 1813px;
+  width: 446px;
+  height: 46px;
+}
+.hora-inicio-19-09 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 990px;
+  top: 1762px;
+  width: 446px;
+  height: 46px;
+}
+.hora-fin-19-23 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 990px;
+  top: 1808px;
+  width: 446px;
+  height: 46px;
+}
+.reserva {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 1711px;
+  width: 446px;
+  height: 46px;
+}
+.rectangle-14 {
+  background: #eb649f;
+  width: 265px;
+  height: 50px;
+  position: absolute;
+  left: 1026px;
+  top: 1700px;
+}
+.calificado {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 1058px;
+  top: 1698px;
+}
+.ver-lista-de-productos {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 598px;
+  top: 1927px;
+  width: 537px;
+  height: 46px;
+}
+.pending-actions-fill-0-wght-400-grad-0-opsz-24-1 {
+  width: 127px;
+  height: 120px;
+  position: absolute;
+  left: 152px;
+  top: 1796px;
+}
+.comercio-info {
+  width: 492px;
+  height: 76px;
+  position: static;
+}
+.comercio-poh-che {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 2027px;
+  top: 1708px;
+  width: 446px;
+  height: 46px;
+}
+.zandy-za-artu-867 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 2002px;
+  top: 1747px;
+  width: 434px;
+  height: 37px;
+}
+.rectangle-16 {
+  background: #d9d9d9;
+  width: 73px;
+  height: 62px;
+  position: absolute;
+  left: 2421px;
+  top: 1722px;
+}
+.location-on-fill-0-wght-400-grad-0-opsz-24-1 {
+  width: 50px;
+  height: 55px;
+  position: absolute;
+  left: 2433px;
+  top: 1726px;
+}
+.group-6 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-62 {
+  background: #06394c;
+  width: 2506px;
+  height: 364px;
+  position: absolute;
+  left: 18px;
+  top: 1263px;
+}
+.ellipse-22 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 359px;
+  height: 364px;
+  position: absolute;
+  left: 18px;
+  top: 1263px;
+}
+.shopping-bag-fill-0-wght-400-grad-0-opsz-24-1 {
+  width: 93px;
+  height: 142px;
+  position: absolute;
+  left: 151px;
+  top: 1374px;
+}
+.estado-finalizado2 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 1351px;
+  width: 446px;
+  height: 46px;
+}
+.fecha-28-08-2023 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 1402px;
+  width: 446px;
+  height: 46px;
+}
+.hora-19-17 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 990px;
+  top: 1358px;
+  width: 446px;
+  height: 46px;
+}
+.compra {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 1300px;
+  width: 446px;
+  height: 46px;
+}
+.rectangle-142 {
+  background: #eb649f;
+  width: 265px;
+  height: 50px;
+  position: absolute;
+  left: 1026px;
+  top: 1289px;
+}
+.calificado2 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 1058px;
+  top: 1287px;
+}
+.ver-lista-de-productos2 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 598px;
+  top: 1516px;
+  width: 537px;
+  height: 46px;
+}
+.comercio-olfos {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 2027px;
+  top: 1297px;
+  width: 446px;
+  height: 46px;
+}
+.av-valpara-so-876 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 2002px;
+  top: 1336px;
+  width: 434px;
+  height: 37px;
+}
+.rectangle-162 {
+  background: #d9d9d9;
+  width: 73px;
+  height: 62px;
+  position: absolute;
+  left: 2421px;
+  top: 1311px;
+}
+.location-on-fill-0-wght-400-grad-0-opsz-24-12 {
+  width: 50px;
+  height: 55px;
+  position: absolute;
+  left: 2433px;
+  top: 1315px;
+}
+.group-5 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-72 {
+  background: #06394c;
+  width: 2506px;
+  height: 364px;
+  position: absolute;
+  left: 18px;
+  top: 852px;
+}
+.ellipse-23 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 359px;
+  height: 364px;
+  position: absolute;
+  left: 18px;
+  top: 852px;
+}
+.pending-actions-fill-0-wght-400-grad-0-opsz-24-12 {
+  width: 127px;
+  height: 120px;
+  position: absolute;
+  left: 152px;
+  top: 974px;
+}
+.estado-finalizado3 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 940px;
+  width: 446px;
+  height: 46px;
+}
+.fecha-10-09-2023 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 991px;
+  width: 446px;
+  height: 46px;
+}
+.ver-lista-de-productos3 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 598px;
+  top: 1105px;
+  width: 537px;
+  height: 46px;
+}
+.reserva2 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 889px;
+  width: 446px;
+  height: 46px;
+}
+.rectangle-143 {
+  background: #eb649f;
+  width: 265px;
+  height: 50px;
+  position: absolute;
+  left: 1026px;
+  top: 878px;
+}
+.calificado3 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 1058px;
+  top: 876px;
+}
+.hora-inicio-19-092 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 990px;
+  top: 940px;
+  width: 446px;
+  height: 46px;
+}
+.hora-fin-19-232 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 990px;
+  top: 986px;
+  width: 446px;
+  height: 46px;
+}
+.comercio-tita {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 2027px;
+  top: 886px;
+  width: 446px;
+  height: 46px;
+}
+.marutana-7654 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 2002px;
+  top: 925px;
+  width: 434px;
+  height: 37px;
+}
+.rectangle-163 {
+  background: #d9d9d9;
+  width: 73px;
+  height: 62px;
+  position: absolute;
+  left: 2421px;
+  top: 900px;
+}
+.location-on-fill-0-wght-400-grad-0-opsz-24-13 {
+  width: 50px;
+  height: 55px;
+  position: absolute;
+  left: 2433px;
+  top: 904px;
+}
+.group-4 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-63 {
+  background: #06394c;
+  width: 2506px;
+  height: 364px;
+  position: absolute;
+  left: 18px;
+  top: 441px;
+}
+.ellipse-24 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 359px;
+  height: 364px;
+  position: absolute;
+  left: 18px;
+  top: 441px;
+}
+.estado-cancelado {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 529px;
+  width: 446px;
+  height: 46px;
+}
+.fecha-15-09-2023 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 580px;
+  width: 446px;
+  height: 46px;
+}
+.ver-lista-de-productos4 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 598px;
+  top: 694px;
+  width: 537px;
+  height: 46px;
+}
+.hora-19-57 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 990px;
+  top: 580px;
+  width: 446px;
+  height: 46px;
+}
+.reserva3 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 478px;
+  width: 446px;
+  height: 46px;
+}
+.motivo-excedi-tiempo-de-reserva {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 988px;
+  top: 538px;
+  width: 865px;
+  height: 42px;
+}
+.comercio-anita {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 2027px;
+  top: 475px;
+  width: 446px;
+  height: 46px;
+}
+.av-valpara-so-421 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 2002px;
+  top: 514px;
+  width: 434px;
+  height: 37px;
+}
+.rectangle-164 {
+  background: #d9d9d9;
+  width: 73px;
+  height: 62px;
+  position: absolute;
+  left: 2421px;
+  top: 489px;
+}
+.location-on-fill-0-wght-400-grad-0-opsz-24-14 {
+  width: 50px;
+  height: 55px;
+  position: absolute;
+  left: 2433px;
+  top: 493px;
+}
+.group-3 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-64 {
+  background: #06394c;
+  width: 2506px;
+  height: 364px;
+  position: absolute;
+  left: 18px;
+  top: 30px;
+}
+.ellipse-25 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 359px;
+  height: 364px;
+  position: absolute;
+  left: 18px;
+  top: 30px;
+}
+.shopping-bag-fill-0-wght-400-grad-0-opsz-24-12 {
+  width: 93px;
+  height: 142px;
+  position: absolute;
+  left: 151px;
+  top: 141px;
+}
+.info-pedido {
+  width: 930px;
+  height: 286px;
+  position: static;
+}
+.finalizada {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 118px;
+  width: 446px;
+  height: 46px;
+}
+.fecha-16-09-2023 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 169px;
+  width: 446px;
+  height: 46px;
+}
+.ver-lista-de-productos5 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 598px;
+  top: 307px;
+  width: 511px;
+  height: 46px;
+}
+.hora-19-49 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 990px;
+  top: 169px;
+  width: 446px;
+  height: 46px;
+}
+.compra2 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 67px;
+  width: 446px;
+  height: 46px;
+}
+.rectangle-15 {
+  background: #eb649f;
+  width: 572px;
+  height: 58px;
+  position: absolute;
+  left: 1026px;
+  top: 54px;
+}
+.pendiente-de-calificaci-n {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 1058px;
+  top: 54px;
+}
+.comercio-olfos2 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 2027px;
+  top: 64px;
+  width: 446px;
+  height: 46px;
+}
+.av-valpara-so-8762 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 2002px;
+  top: 103px;
+  width: 434px;
+  height: 37px;
+}
+.rectangle-165 {
+  background: #d9d9d9;
+  width: 73px;
+  height: 62px;
+  position: absolute;
+  left: 2421px;
+  top: 78px;
+}
+.location-on-fill-0-wght-400-grad-0-opsz-24-15 {
+  width: 50px;
+  height: 55px;
+  position: absolute;
+  left: 2433px;
+  top: 82px;
+}
+.pending-actions-fill-0-wght-400-grad-0-opsz-24-13 {
+  width: 127px;
+  height: 120px;
+  position: absolute;
+  left: 134px;
+  top: 563px;
+}

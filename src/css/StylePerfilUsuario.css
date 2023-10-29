@@ -1,0 +1,855 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+
+.desktop-1 {
+  background: #071e26;
+  width: 4305px;
+  height: 2726px;
+  position: relative;
+  overflow: hidden;
+}
+
+.vista-productos {
+  position: absolute;
+  inset: 0;
+}
+
+.producto-tres {
+  width: 2647px;
+  height: 415px;
+  position: static;
+}
+
+.producto-uno {
+  background: #071e26;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px;
+  width: 1317px;
+  height: 415px;
+  position: absolute;
+  left: 1496px;
+  top: 2251px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow-y: auto;
+}
+
+.group {
+  position: absolute;
+  inset: 0;
+}
+
+.rectangle-6 {
+  background: #06394c;
+  width: 1278px;
+  height: 364px;
+  position: absolute;
+  left: 18px;
+  top: 30px;
+}
+
+.ellipse-2 {
+  border-radius: 50%;
+  width: 359px;
+  height: 364px;
+  position: absolute;
+  left: 18px;
+  top: 30px;
+}
+
+.info {
+  width: 686px;
+  height: 301px;
+  position: static;
+}
+
+.comercio-don-pepe {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 118px;
+  width: 446px;
+  height: 46px;
+}
+
+.disponible-compra-reserva {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 169px;
+  width: 686px;
+  height: 46px;
+}
+
+.ver-producto {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 506px;
+  top: 322px;
+  width: 317px;
+  height: 46px;
+}
+
+.valor-950 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 507px;
+  top: 220px;
+  width: 446px;
+}
+
+.nordic-zero {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 67px;
+  width: 446px;
+  height: 46px;
+}
+
+.producto-dos {
+  background: #071e26;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px;
+  width: 1317px;
+  height: 415px;
+  position: absolute;
+  left: 2826px;
+  top: 2251px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow-y: auto;
+}
+
+.valor-600 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 507px;
+  top: 220px;
+  width: 446px;
+}
+
+.coca-cola-ultimate {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 67px;
+  width: 446px;
+  height: 46px;
+}
+
+.producto-uno2 {
+  background: #071e26;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px;
+  width: 1317px;
+  height: 415px;
+  position: absolute;
+  left: 1496px;
+  top: 1792px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow-y: auto;
+}
+
+.comercio-oxxo {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 118px;
+  width: 446px;
+  height: 46px;
+}
+
+.valor-700 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 507px;
+  top: 220px;
+  width: 446px;
+}
+
+.sprite-zero {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 67px;
+  width: 446px;
+  height: 46px;
+}
+
+.producto-dos2 {
+  background: #071e26;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px;
+  width: 1317px;
+  height: 415px;
+  position: absolute;
+  left: 2826px;
+  top: 1792px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow-y: auto;
+}
+
+.comercio-tu-pan {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 118px;
+  width: 446px;
+  height: 46px;
+}
+
+.valor-750 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 507px;
+  top: 220px;
+  width: 446px;
+}
+
+.fanta {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 67px;
+  width: 446px;
+  height: 46px;
+}
+
+.producto-dos3 {
+  width: 2647px;
+  height: 415px;
+  position: static;
+}
+
+.producto-uno3 {
+  background: #071e26;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px;
+  width: 1317px;
+  height: 415px;
+  position: absolute;
+  left: 1496px;
+  top: 1333px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow-y: auto;
+}
+
+.comercio-poh-che {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 118px;
+  width: 446px;
+  height: 46px;
+}
+
+.valor-850 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 507px;
+  top: 220px;
+  width: 446px;
+}
+
+.fanta-pomelo {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 67px;
+  width: 446px;
+  height: 46px;
+}
+
+.producto-dos4 {
+  background: #071e26;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px;
+  width: 1317px;
+  height: 415px;
+  position: absolute;
+  left: 2826px;
+  top: 1333px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow-y: auto;
+}
+
+.comercio-olfos {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 118px;
+  width: 446px;
+  height: 46px;
+}
+
+.coca-cola-motion {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 67px;
+  width: 446px;
+  height: 46px;
+}
+
+.producto {
+  width: 2647px;
+  height: 415px;
+  position: static;
+}
+
+.producto-dos5 {
+  background: #071e26;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px;
+  width: 1317px;
+  height: 415px;
+  position: absolute;
+  left: 2826px;
+  top: 874px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow-y: auto;
+}
+
+.comercio-miryam {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 118px;
+  width: 446px;
+  height: 46px;
+}
+
+.coca-cola-original {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 67px;
+  width: 446px;
+  height: 46px;
+}
+
+.producto-uno4 {
+  background: #071e26;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px;
+  width: 1317px;
+  height: 415px;
+  position: absolute;
+  left: 1496px;
+  top: 874px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow-y: auto;
+}
+
+.comercio-aurora {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 118px;
+  width: 446px;
+  height: 46px;
+}
+
+.valor-780 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 507px;
+  top: 220px;
+  width: 446px;
+}
+
+.coca-cola-zero {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 67px;
+  width: 446px;
+  height: 46px;
+}
+
+.ofertas {
+  width: 2647px;
+  height: 415px;
+  position: static;
+}
+
+.producto-dos6 {
+  background: #071e26;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px;
+  width: 1317px;
+  height: 415px;
+  position: absolute;
+  left: 2826px;
+  top: 415px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow-y: auto;
+}
+
+.rectangle-62 {
+  background: #cb0c59;
+  width: 1278px;
+  height: 364px;
+  position: absolute;
+  left: 18px;
+  top: 30px;
+}
+
+.ellipse-22 {
+  border-radius: 50%;
+  width: 359px;
+  height: 364px;
+  position: absolute;
+  left: 18px;
+  top: 33px;
+}
+
+.comercio-myriam {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 118px;
+  width: 446px;
+  height: 46px;
+}
+
+.valor-1000 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 507px;
+  top: 220px;
+  width: 446px;
+}
+
+.monster-ultra-473-ml {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 67px;
+  width: 446px;
+  height: 46px;
+}
+
+.oferta-disponible-18-00 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 36px "Inter", sans-serif;
+  position: absolute;
+  left: 823px;
+  top: 329px;
+  width: 465px;
+  height: 39px;
+}
+
+.producto-uno5 {
+  background: #071e26;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px;
+  width: 1317px;
+  height: 415px;
+  position: absolute;
+  left: 1496px;
+  top: 415px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow-y: auto;
+}
+
+.info2 {
+  width: 686px;
+  height: 291px;
+  position: static;
+}
+
+.ver-producto2 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 506px;
+  top: 312px;
+  width: 317px;
+  height: 46px;
+}
+
+.monster-energy-473-ml {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 67px;
+  width: 515px;
+  height: 46px;
+}
+
+.oferta-disponible-18-002 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 36px "Inter", sans-serif;
+  position: absolute;
+  left: 823px;
+  top: 323px;
+  width: 465px;
+  height: 39px;
+}
+
+.busqueda {
+  position: absolute;
+  inset: 0;
+}
+
+.rectangle-7 {
+  background: #6a97b8;
+  width: 2110px;
+  height: 102px;
+  position: absolute;
+  left: 2003px;
+  top: 259px;
+}
+
+.search-fill-0-wght-400-grad-0-opsz-24-1 {
+  width: 101.18px;
+  height: 102px;
+  position: absolute;
+  left: 4011.82px;
+  top: 259px;
+}
+
+.filtrar {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 1515px;
+  top: 259px;
+  width: 200px;
+  height: 41px;
+}
+
+.orden-m-s-cercano {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 1515px;
+  top: 330px;
+  width: 425px;
+  height: 41px;
+}
+
+.perfil {
+  position: absolute;
+  inset: 0;
+}
+
+.rectangle-1 {
+  background: linear-gradient(180deg,
+      rgba(6, 57, 76, 1) 43.75%,
+      rgba(6, 57, 76, 0) 91.66666865348816%);
+  width: 850px;
+  height: 2726px;
+  position: absolute;
+  left: 0px;
+  top: 15px;
+}
+
+.ellipse-1 {
+  position: absolute;
+  left: 96px;
+  top: 67px;
+  overflow: visible;
+}
+
+.info-opciones {
+  width: 696.41px;
+  height: 1172px;
+  position: static;
+}
+
+.mi-perfil {
+  color: #ffffff;
+  text-align: left;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 77.01px;
+  top: 633px;
+  width: 693.4px;
+  height: 75px;
+}
+
+.mis-compras {
+  color: #ffffff;
+  text-align: left;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 77.01px;
+  top: 784px;
+  width: 693.4px;
+  height: 75px;
+}
+
+.mis-reservas {
+  color: #ffffff;
+  text-align: left;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 74px;
+  top: 935px;
+  width: 693.4px;
+  height: 75px;
+}
+
+.ayuda {
+  color: #ffffff;
+  text-align: left;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 74px;
+  top: 1237px;
+  width: 693.4px;
+  height: 75px;
+}
+
+.historial-de-mensajes {
+  color: #ffffff;
+  text-align: left;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 74px;
+  top: 1086px;
+  width: 693.4px;
+  height: 75px;
+}
+
+.favoritos {
+  color: #ffffff;
+  text-align: left;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 77.01px;
+  top: 1388px;
+  width: 693.4px;
+  height: 75px;
+}
+
+.configuraciones {
+  color: #ffffff;
+  text-align: left;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 74px;
+  top: 1730px;
+  width: 693.4px;
+  height: 75px;
+}
+
+.mensajes {
+  color: #ffffff;
+  text-align: left;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 74px;
+  top: 1563px;
+  width: 693.4px;
+  height: 75px;
+}
+
+.salir {
+  color: #ffffff;
+  text-align: left;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 74px;
+  top: 2583px;
+  width: 693.4px;
+  height: 75px;
+}
+
+.opciones {
+  position: absolute;
+  inset: 0;
+}
+
+.rectangle-8 {
+  background: #0c4383;
+  width: 457.23px;
+  height: 62px;
+  position: absolute;
+  left: 1515px;
+  top: 67px;
+}
+
+.para-mi {
+  color: #ffffff;
+  text-align: center;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 1522.31px;
+  top: 70px;
+  width: 449.92px;
+  height: 59px;
+}
+
+.rectangle-9 {
+  background: #0c4383;
+  width: 457.23px;
+  height: 62px;
+  position: absolute;
+  left: 2054.69px;
+  top: 67px;
+}
+
+.ofertas2 {
+  color: #ffffff;
+  text-align: center;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 2062px;
+  top: 70px;
+  width: 449.92px;
+  height: 59px;
+}
+
+.rectangle-10 {
+  background: #0c4383;
+  width: 457.23px;
+  height: 62px;
+  position: absolute;
+  left: 2594.39px;
+  top: 67px;
+}
+
+.m-s-comprados {
+  color: #ffffff;
+  text-align: center;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 2601.69px;
+  top: 67px;
+  width: 449.92px;
+  height: 59px;
+}
+
+.rectangle-13 {
+  background: #0c4383;
+  width: 288px;
+  height: 62px;
+  position: absolute;
+  left: 903px;
+  top: 64px;
+}
+
+.inicio {
+  color: #ffffff;
+  text-align: center;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 908px;
+  top: 64px;
+  width: 283px;
+  height: 59px;
+}
+
+.rectangle-12 {
+  background: #0c4383;
+  width: 358px;
+  height: 62px;
+  position: absolute;
+  left: 3773px;
+  top: 67px;
+}
+
+.mi-cesta {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 3779px;
+  top: 70px;
+  width: 352px;
+  height: 59px;
+}
+
+.shopping-cart-fill-0-wght-300-grad-200-opsz-48-1 {
+  width: 71px;
+  height: 53px;
+  position: absolute;
+  left: 4046px;
+  top: 73px;
+}
+
+.bebida-en-lata {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 2040px;
+  top: 280px;
+  width: 892px;
+  height: 50px;
+}

@@ -1,0 +1,884 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #071e26;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.line-1 {
+  border-style: solid;
+  border-color: #1c8395;
+  border-width: 2px 0 0 0;
+  width: 1440px;
+  height: 0px;
+  position: absolute;
+  left: 1440px;
+  top: 9px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  transform-origin: 0 0;
+  transform: rotate(179.96deg) scale(1, 1);
+}
+.iniciar {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-10 {
+  background: #6a97b8;
+  border-radius: 10px;
+  width: 1424px;
+  height: 27px;
+  position: absolute;
+  left: 6px;
+  top: 20px;
+}
+.rectangle-5 {
+  background: #0c4383;
+  border-radius: 10px;
+  width: 71px;
+  height: 14px;
+  position: absolute;
+  left: calc(50% - -546px);
+  top: calc(50% - 485px);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25),
+    0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-11 {
+  background: #0c4383;
+  border-radius: 10px;
+  width: 71px;
+  height: 14px;
+  position: absolute;
+  left: calc(50% - -424px);
+  top: calc(50% - 485px);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25),
+    0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.iniciar2 {
+  color: #cedded;
+  text-align: left;
+  font: 700 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 1286px;
+  top: 27px;
+  width: 51px;
+  height: 31px;
+}
+.mi-cesta {
+  color: #cedded;
+  text-align: left;
+  font: 700 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 1157px;
+  top: 27px;
+  width: 51px;
+  height: 31px;
+}
+.shopping-cart-fill-0-wght-300-grad-200-opsz-48-1 {
+  width: 25px;
+  height: 24px;
+  position: absolute;
+  left: 1114px;
+  top: 22px;
+}
+.ellipse-1 {
+  background: #0c4383;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #1c8395;
+  border-width: 1px;
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  left: 1227px;
+  top: 21px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-6 {
+  background: #0c4383;
+  border-radius: 10px;
+  width: 86px;
+  height: 14px;
+  position: absolute;
+  left: calc(50% - -621px);
+  top: calc(50% - 486px);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25),
+    0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.registrarse {
+  color: #cedded;
+  text-align: left;
+  font: 700 12px "Roboto", sans-serif;
+  position: absolute;
+  left: 1355px;
+  top: 27px;
+  width: 110px;
+  height: 27px;
+}
+.pngwing-2 {
+  width: 17px;
+  height: 17px;
+  position: absolute;
+  left: 1231px;
+  top: 27px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.ayuda-sobre-nosotros-como-ser-parte-de-logo-lista-de-deseos-ofertas {
+  color: #ffffff;
+  text-align: left;
+  font: 700 11px "Roboto", sans-serif;
+  position: absolute;
+  left: calc(50% - 222px);
+  top: 27px;
+  width: 444px;
+  height: 22px;
+}
+.logo {
+  position: absolute;
+  left: 142.5px;
+  top: 75px;
+  overflow: visible;
+}
+.logo2 {
+  color: #cb0c59;
+  text-align: left;
+  font: 700 65px "Ribeye";
+  position: absolute;
+  left: 294px;
+  top: 82px;
+  width: 195px;
+  height: 108px;
+}
+.rectangle-1 {
+  background: #eadada;
+  border-radius: 10px;
+  width: 682px;
+  height: 34px;
+  position: absolute;
+  left: calc(50% - 245px);
+  top: calc(50% - 396px);
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25),
+    0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.pngwing-1 {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 1127px;
+  top: 121px;
+}
+.buscar-productos {
+  color: #000000;
+  text-align: left;
+  font: 400 italic 12px "Roboto", sans-serif;
+  opacity: 0.5;
+  position: absolute;
+  left: 497px;
+  top: 125px;
+  width: 243px;
+  height: 21px;
+}
+.line-3 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px 0 0 0;
+  opacity: 0.6000000238418579;
+  width: 27px;
+  height: 0px;
+  position: absolute;
+  left: 1116px;
+  top: 119px;
+  transform-origin: 0 0;
+  transform: rotate(90deg) scale(1, 1);
+}
+.rectangle-12 {
+  border-radius: 0px;
+  position: absolute;
+  left: 141px;
+  top: 197px;
+  overflow: visible;
+}
+.secci-n-ofertas {
+  color: rgba(252, 249, 250, 0.88);
+  text-align: left;
+  font: 700 50px "Roboto", sans-serif;
+  position: absolute;
+  left: 154px;
+  top: 200px;
+  width: 537px;
+  height: 55px;
+}
+.mejores-ofertas-por-categor-a {
+  color: #ffffff;
+  text-align: left;
+  font: 700 30px "Roboto", sans-serif;
+  position: absolute;
+  left: 462px;
+  top: 280px;
+  width: 731px;
+  height: 109px;
+}
+.cat-logo-supermercado {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-112 {
+  background: linear-gradient(
+    180deg,
+    rgba(106, 151, 184, 1) 0%,
+    rgba(106, 151, 184, 0) 100%
+  );
+  border-radius: 10px;
+  width: 802px;
+  height: 163px;
+  position: absolute;
+  left: 273px;
+  top: 319px;
+}
+.rectangle-113 {
+  background: linear-gradient(
+    180deg,
+    rgba(106, 151, 184, 1) 0%,
+    rgba(106, 151, 184, 0) 100%
+  );
+  border-radius: 10px;
+  width: 802px;
+  height: 163px;
+  position: absolute;
+  left: 273px;
+  top: 529px;
+}
+.categorias-hogar {
+  position: absolute;
+  left: 318px;
+  top: 546px;
+  overflow: visible;
+}
+.categorias-hogar2 {
+  position: absolute;
+  left: 318px;
+  top: 329px;
+  overflow: visible;
+}
+.productos {
+  position: absolute;
+  inset: 0;
+}
+.frutas-y-verduras {
+  color: #000000;
+  text-align: left;
+  font: 400 9px "Roboto", sans-serif;
+  position: absolute;
+  left: 328px;
+  top: 374px;
+  width: 150px;
+  height: 33px;
+}
+.computaci-n {
+  color: #000000;
+  text-align: left;
+  font: 400 9px "Roboto", sans-serif;
+  position: absolute;
+  left: 335px;
+  top: 593px;
+  width: 150px;
+  height: 33px;
+}
+.libros {
+  color: #000000;
+  text-align: left;
+  font: 400 9px "Roboto", sans-serif;
+  position: absolute;
+  left: 473px;
+  top: 592px;
+  width: 41px;
+  height: 15px;
+}
+.accesorios-veh-culo {
+  color: #000000;
+  text-align: left;
+  font: 400 9px "Roboto", sans-serif;
+  position: absolute;
+  left: 445px;
+  top: 664px;
+  width: 96px;
+  height: 15px;
+}
+.deportes {
+  color: #000000;
+  text-align: left;
+  font: 400 9px "Roboto", sans-serif;
+  position: absolute;
+  left: 342px;
+  top: 667px;
+  width: 41px;
+  height: 15px;
+}
+.videojuegos {
+  color: #000000;
+  text-align: left;
+  font: 400 9px "Roboto", sans-serif;
+  position: absolute;
+  left: 709px;
+  top: 668px;
+  width: 63px;
+  height: 15px;
+}
+.instrumentos {
+  color: #000000;
+  text-align: left;
+  font: 400 9px "Roboto", sans-serif;
+  position: absolute;
+  left: 963px;
+  top: 666px;
+  width: 75px;
+  height: 15px;
+}
+.juguetes-y-juegos {
+  color: #000000;
+  text-align: left;
+  font: 400 9px "Roboto", sans-serif;
+  position: absolute;
+  left: 823px;
+  top: 668px;
+  width: 84px;
+  height: 15px;
+}
+.herramientas {
+  color: #000000;
+  text-align: left;
+  font: 400 9px "Roboto", sans-serif;
+  position: absolute;
+  left: 584px;
+  top: 665px;
+  width: 69px;
+  height: 15px;
+}
+.electrodom-sticos {
+  color: #000000;
+  text-align: left;
+  font: 400 9px "Roboto", sans-serif;
+  position: absolute;
+  left: 572px;
+  top: 595px;
+  width: 78px;
+  height: 15px;
+}
+.belleza-y-cuidado {
+  color: #000000;
+  text-align: left;
+  font: 400 9px "Roboto", sans-serif;
+  position: absolute;
+  left: 698px;
+  top: 595px;
+  width: 78px;
+  height: 15px;
+}
+.electr-nica {
+  color: #000000;
+  text-align: left;
+  font: 400 9px "Roboto", sans-serif;
+  position: absolute;
+  left: 970px;
+  top: 594px;
+  width: 78px;
+  height: 15px;
+}
+.c-maras-y-accesorios {
+  color: #000000;
+  text-align: left;
+  font: 400 9px "Roboto", sans-serif;
+  position: absolute;
+  left: 839px;
+  top: 588px;
+  width: 78px;
+  height: 15px;
+}
+.para-beb {
+  color: #000000;
+  text-align: left;
+  font: 400 9px "Roboto", sans-serif;
+  position: absolute;
+  left: 590px;
+  top: 375px;
+  width: 52px;
+  height: 15px;
+}
+.mascotas {
+  color: #000000;
+  text-align: left;
+  font: 400 9px "Roboto", sans-serif;
+  position: absolute;
+  left: 714px;
+  top: 375px;
+  width: 52px;
+  height: 15px;
+}
+.l-cteos {
+  color: #000000;
+  text-align: left;
+  font: 400 9px "Roboto", sans-serif;
+  position: absolute;
+  left: 844px;
+  top: 376px;
+  width: 52px;
+  height: 15px;
+}
+.congelados {
+  color: #000000;
+  text-align: left;
+  font: 400 9px "Roboto", sans-serif;
+  position: absolute;
+  left: 968px;
+  top: 376px;
+  width: 52px;
+  height: 15px;
+}
+.bebestibles {
+  color: #000000;
+  text-align: left;
+  font: 400 9px "Roboto", sans-serif;
+  position: absolute;
+  left: 968px;
+  top: 444px;
+  width: 52px;
+  height: 15px;
+}
+.salud {
+  color: #000000;
+  text-align: left;
+  font: 400 9px "Roboto", sans-serif;
+  position: absolute;
+  left: 848px;
+  top: 445px;
+  width: 52px;
+  height: 15px;
+}
+.pan {
+  color: #000000;
+  text-align: left;
+  font: 400 9px "Roboto", sans-serif;
+  position: absolute;
+  left: 604px;
+  top: 443px;
+  width: 52px;
+  height: 15px;
+}
+.sabores-locales {
+  color: #000000;
+  text-align: left;
+  font: 400 9px "Roboto", sans-serif;
+  position: absolute;
+  left: 455px;
+  top: 445px;
+  width: 75px;
+  height: 15px;
+}
+.limpieza {
+  color: #000000;
+  text-align: left;
+  font: 400 9px "Roboto", sans-serif;
+  position: absolute;
+  left: 341px;
+  top: 447px;
+  width: 52px;
+  height: 15px;
+}
+.pasteler-a {
+  color: #000000;
+  text-align: left;
+  font: 400 9px "Roboto", sans-serif;
+  position: absolute;
+  left: 717px;
+  top: 446px;
+  width: 52px;
+  height: 15px;
+}
+.carnes-y-pescados {
+  color: #000000;
+  text-align: left;
+  font: 400 9px "Roboto", sans-serif;
+  position: absolute;
+  left: 448px;
+  top: 374px;
+  width: 100px;
+  height: 9px;
+}
+.pollo {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 466px;
+  top: 330px;
+}
+.herramientas2 {
+  width: 40px;
+  height: 38.2px;
+  position: absolute;
+  left: 591px;
+  top: 623px;
+}
+.bebe {
+  width: 40px;
+  height: 39.51px;
+  position: absolute;
+  left: 590px;
+  top: 331px;
+}
+.hueso {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 714px;
+  top: 331px;
+}
+.leche {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 839px;
+  top: 334px;
+}
+.nieve {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 970px;
+  top: 334px;
+}
+.escoba {
+  width: 41.09px;
+  height: 40px;
+  position: absolute;
+  left: 340px;
+  top: 407px;
+}
+.manzana {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 341px;
+  top: 330px;
+}
+.licor {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 970px;
+  top: 400px;
+}
+.plato {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 466px;
+  top: 404px;
+}
+.pan2 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 590px;
+  top: 400px;
+}
+.pastel {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 717px;
+  top: 404px;
+}
+.maquillaje {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 709px;
+  top: 553px;
+}
+.pc {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 340px;
+  top: 553px;
+}
+.pelota {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 341px;
+  top: 626px;
+}
+.volante {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 466px;
+  top: 623px;
+}
+.mando {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 714px;
+  top: 626px;
+}
+.camara {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 840px;
+  top: 553px;
+}
+.oso {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 839px;
+  top: 626px;
+}
+.guitarra {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  left: 1004.31px;
+  top: 594px;
+  transform-origin: 0 0;
+  transform: rotate(54.963deg) scale(1, 1);
+}
+.libro {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 465px;
+  top: 553px;
+}
+.icon-labadora {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 590px;
+  top: 555px;
+}
+.salud-cruz {
+  border-style: solid;
+  border-color: transparent;
+  border-width: 1px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 839px;
+  top: 404px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.pngwing-13 {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 970px;
+  top: 553px;
+}
+.ellipse-2 {
+  background: #c58ca3;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #fbfbfb;
+  border-width: 5px;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: 292px;
+  top: 722px;
+}
+.ellipse-3 {
+  background: #cb0c59;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 5px;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: 506px;
+  top: 722px;
+}
+.ellipse-4 {
+  background: #c58ca3;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 5px;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: 708px;
+  top: 722px;
+}
+.ellipse-5 {
+  background: #cb0c59;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 5px;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  left: 922px;
+  top: 722px;
+}
+.frame-1 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 250px;
+  top: 358px;
+  overflow: hidden;
+}
+.pngwing-14 {
+  width: 55px;
+  height: 76.56px;
+  position: absolute;
+  left: 336px;
+  top: 758px;
+}
+.off {
+  color: #ffffff;
+  text-align: left;
+  font: 400 39px "Ribeye", sans-serif;
+  position: absolute;
+  left: 525px;
+  top: 772px;
+  width: 131px;
+  height: 63px;
+}
+. {
+  color: #ffffff;
+  text-align: left;
+  font: 400 100px "Ribeye", sans-serif;
+  position: absolute;
+  left: 755px;
+  top: 724px;
+  width: 108px;
+  height: 95px;
+}
+.pngwing-15 {
+  width: 95px;
+  height: 95px;
+  position: absolute;
+  left: 954px;
+  top: 750px;
+}
+.ofertas-del-d-a {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px "Roboto", sans-serif;
+  position: absolute;
+  left: 302px;
+  top: 882px;
+  width: 202px;
+  height: 57px;
+}
+.descuentos {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px "Roboto", sans-serif;
+  position: absolute;
+  left: 535px;
+  top: 882px;
+  width: 202px;
+  height: 57px;
+}
+.todas-las-ofertas {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px "Roboto", sans-serif;
+  position: absolute;
+  left: 923px;
+  top: 882px;
+  width: 202px;
+  height: 57px;
+}
+.ofertas-de-la-semana {
+  color: #ffffff;
+  text-align: left;
+  font: 400 20px "Roboto", sans-serif;
+  position: absolute;
+  left: 699px;
+  top: 882px;
+  width: 202px;
+  height: 57px;
+}
+.footer {
+  position: absolute;
+  inset: 0;
+}
+.line-2 {
+  border-style: solid;
+  border-color: #1c8395;
+  border-width: 4px 0 0 0;
+  width: 1440px;
+  height: 0px;
+  position: absolute;
+  left: 1440px;
+  top: 936px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  transform-origin: 0 0;
+  transform: rotate(180deg) scale(1, 1);
+}
+.redes-sociales {
+  color: #ffffff;
+  text-align: left;
+  font: 400 15px "Roboto", sans-serif;
+  position: absolute;
+  left: 85px;
+  top: 952px;
+  width: 114px;
+  height: 62px;
+}
+.ayuda {
+  color: #ffffff;
+  text-align: left;
+  font: 400 15px "Roboto", sans-serif;
+  position: absolute;
+  left: 283px;
+  top: 952px;
+  width: 114px;
+  height: 40px;
+}
+.direcci-n {
+  color: #ffffff;
+  text-align: left;
+  font: 400 15px "Roboto", sans-serif;
+  position: absolute;
+  left: 440px;
+  top: 953px;
+  width: 114px;
+  height: 40px;
+}
+.copyright-2023 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 15px "Roboto", sans-serif;
+  position: absolute;
+  left: 588px;
+  top: 952px;
+  width: 147px;
+  height: 42px;
+}
+.faccebook {
+  width: 40px;
+  height: 35px;
+  position: absolute;
+  left: 151px;
+  top: 976px;
+}
+.instagram {
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  left: 77px;
+  top: 976px;
+}

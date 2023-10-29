@@ -1,0 +1,274 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: linear-gradient(
+    180deg,
+    rgba(7, 30, 38, 1) 0%,
+    rgba(7, 30, 38, 1) 100%
+  );
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1721px;
+  height: 1068px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.rectangle-1 {
+  background: #06394c;
+  width: 509px;
+  height: 1024px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25),
+    0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.rectangle-2 {
+  position: absolute;
+  left: 122px;
+  top: 94px;
+  overflow: visible;
+}
+.rectangle-3 {
+  position: absolute;
+  left: 592px;
+  top: 77px;
+  overflow: visible;
+}
+.nombre-producto {
+  color: #ffffff;
+  text-align: left;
+  font: 400 64px "Roboto", sans-serif;
+  position: absolute;
+  left: 668px;
+  top: 91px;
+  width: 722px;
+  height: 31px;
+}
+.foto {
+  color: #ffffff;
+  text-align: left;
+  font: 400 64px "Roboto", sans-serif;
+  position: absolute;
+  left: 187px;
+  top: 181px;
+  width: 221px;
+  height: 103px;
+}
+.rectangle-4 {
+  background: #06394c;
+  width: 793px;
+  height: 120px;
+  position: absolute;
+  left: 578px;
+  top: 224px;
+}
+.star-7 {
+  position: absolute;
+  left: 1143px;
+  top: 275px;
+  overflow: visible;
+}
+.star-8 {
+  position: absolute;
+  left: 1194px;
+  top: 277px;
+  overflow: visible;
+}
+.star-9 {
+  position: absolute;
+  left: 1245px;
+  top: 275px;
+  overflow: visible;
+}
+.rectangle-5 {
+  background: #06394c;
+  width: 793px;
+  height: 120px;
+  position: absolute;
+  left: 578px;
+  top: 360px;
+}
+.rectangle-6 {
+  background: #06394c;
+  width: 793px;
+  height: 120px;
+  position: absolute;
+  left: 578px;
+  top: 496px;
+}
+.rectangle-8 {
+  background: #071e26;
+  width: 413px;
+  height: 501px;
+  position: absolute;
+  left: 54px;
+  top: 446px;
+}
+.ellipse-2 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 123px;
+  height: 102px;
+  position: absolute;
+  left: 607px;
+  top: 369px;
+}
+.ellipse-5 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 123px;
+  height: 102px;
+  position: absolute;
+  left: 607px;
+  top: 232px;
+}
+.ellipse-3 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 123px;
+  height: 102px;
+  position: absolute;
+  left: 607px;
+  top: 505px;
+}
+._57546-1 {
+  width: 51px;
+  height: 48px;
+  position: absolute;
+  left: 643px;
+  top: 259px;
+}
+._57546-2 {
+  width: 51px;
+  height: 48px;
+  position: absolute;
+  left: 643px;
+  top: 396px;
+}
+._57546-3 {
+  width: 51px;
+  height: 48px;
+  position: absolute;
+  left: 643px;
+  top: 532px;
+}
+.rectangle-9 {
+  background: #6a97b8;
+  width: 785px;
+  height: 281px;
+  position: absolute;
+  left: 586px;
+  top: 694px;
+}
+._456212-2 {
+  width: 59px;
+  height: 62px;
+  position: absolute;
+  left: 940px;
+  top: 809px;
+}
+._456212-3 {
+  width: 59px;
+  height: 62px;
+  position: absolute;
+  left: 940px;
+  top: 894px;
+}
+.star-4 {
+  position: absolute;
+  left: 1296px;
+  top: 541px;
+  overflow: visible;
+}
+.star-5 {
+  position: absolute;
+  left: 1143px;
+  top: 413px;
+  overflow: visible;
+}
+.star-6 {
+  position: absolute;
+  left: 1194px;
+  top: 413px;
+  overflow: visible;
+}
+.star-1 {
+  position: absolute;
+  left: 1143px;
+  top: 541px;
+  overflow: visible;
+}
+.star-2 {
+  position: absolute;
+  left: 1194px;
+  top: 541px;
+  overflow: visible;
+}
+.star-3 {
+  position: absolute;
+  left: 1250px;
+  top: 541px;
+  overflow: visible;
+}
+.comentarios-y-calificaciones{
+  color: #ffffff;
+  text-align: left;
+  font: 400 34px "Roboto", sans-serif;
+  position: absolute;
+  left: 684px;
+  top: 632px;
+  width: 582px;
+  height: 46px;
+}
+.descripci-n-producto {
+  color: #ffffff;
+  text-align: center;
+  font: 400 36px "Roboto", sans-serif;
+  position: absolute;
+  left: 116px;
+  top: 632px;
+  width: 276px;
+  height: 83px;
+}
+.tienda-1 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 36px "Roboto", sans-serif;
+  position: absolute;
+  left: 791px;
+  top: 252px;
+  width: 256px;
+  height: 47px;
+}
+.tienda-2 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 36px "Roboto", sans-serif;
+  position: absolute;
+  left: 783px;
+  top: 405px;
+  width: 256px;
+  height: 47px;
+}
+.tienda-3 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 36px "Roboto", sans-serif;
+  position: absolute;
+  left: 791px;
+  top: 541px;
+  width: 256px;
+  height: 47px;
+}
+._456212-1 {
+  width: 59px;
+  height: 62px;
+  position: absolute;
+  left: 940px;
+  top: 731px;
+}

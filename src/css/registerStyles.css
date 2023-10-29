@@ -1,0 +1,38 @@
+#cabecera{
+    text-align: center;
+    margin-top: 5%;
+    
+}
+#formulario1{
+    padding-right: 100px;
+    padding-bottom: 100px;
+    margin-top: 30px;
+    border-right: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    padding-left: 20px; 
+    margin-bottom: 1000px;
+    border-bottom:  1px solid #ccc;
+    
+}
+#formulario2{
+    border-left: 1px solid #ccc;
+    margin-top: 30px;
+    padding-left: 10px;
+    border-right: 1px solid #ccc;
+    margin-bottom: 1000px;
+    border-bottom: 1px solid #ccc;
+}
+#h2Under{
+    text-decoration: underline;
+}
+#titulo1{
+    color: white;
+}
+#emailHelp{
+
+    color: white;
+}
+body{
+    color: #ccc;
+    background-color:#071E26;
+}

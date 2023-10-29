@@ -1,0 +1,15 @@
+#inicio{
+    color: white;
+    border: 1px solid #ccc;
+    padding: 30px 10px 10px 10px;
+    background-color: #063940;
+    margin-bottom: 10%;
+    border-color: black;
+}
+body{
+    color: white;
+    background-color: #071E26;
+}
+label{
+    text-align: center;
+}

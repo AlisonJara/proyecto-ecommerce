@@ -1,0 +1,765 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #071e26;
+  width: 4305px;
+  height: 2726px;
+  position: relative;
+  overflow: hidden;
+}
+.perfil {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-1 {
+  background: linear-gradient(
+    180deg,
+    rgba(6, 57, 76, 1) 43.75%,
+    rgba(6, 57, 76, 0) 91.66666865348816%
+  );
+  width: 850px;
+  height: 2726px;
+  position: absolute;
+  left: 0px;
+  top: 15px;
+}
+.ellipse-1 {
+  position: absolute;
+  left: 96px;
+  top: 67px;
+  overflow: visible;
+}
+.info-opciones {
+  width: 696.41px;
+  height: 1172px;
+  position: static;
+}
+.mi-perfil {
+  color: #ffffff;
+  text-align: left;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 77.01px;
+  top: 633px;
+  width: 693.4px;
+  height: 75px;
+}
+.mis-compras {
+  color: #ffffff;
+  text-align: left;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 77.01px;
+  top: 784px;
+  width: 693.4px;
+  height: 75px;
+}
+.mis-reservas {
+  color: #ffffff;
+  text-align: left;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 74px;
+  top: 935px;
+  width: 693.4px;
+  height: 75px;
+}
+.ayuda {
+  color: #ffffff;
+  text-align: left;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 74px;
+  top: 1237px;
+  width: 693.4px;
+  height: 75px;
+}
+.historial-de-mensajes {
+  color: #ffffff;
+  text-align: left;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 74px;
+  top: 1086px;
+  width: 693.4px;
+  height: 75px;
+}
+.favoritos {
+  color: #ffffff;
+  text-align: left;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 77.01px;
+  top: 1388px;
+  width: 693.4px;
+  height: 75px;
+}
+.configuraciones {
+  color: #ffffff;
+  text-align: left;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 74px;
+  top: 1730px;
+  width: 693.4px;
+  height: 75px;
+}
+.mensajes {
+  color: #ffffff;
+  text-align: left;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 74px;
+  top: 1563px;
+  width: 693.4px;
+  height: 75px;
+}
+.salir {
+  color: #ffffff;
+  text-align: left;
+  font: 800 64px "Inter", sans-serif;
+  position: absolute;
+  left: 74px;
+  top: 2583px;
+  width: 693.4px;
+  height: 75px;
+}
+.opciones {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-8 {
+  background: #0c4383;
+  width: 457.23px;
+  height: 62px;
+  position: absolute;
+  left: 1515px;
+  top: 67px;
+}
+.para-mi {
+  color: #ffffff;
+  text-align: center;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 1522.31px;
+  top: 70px;
+  width: 449.92px;
+  height: 59px;
+}
+.rectangle-9 {
+  background: #0c4383;
+  width: 457.23px;
+  height: 62px;
+  position: absolute;
+  left: 2054.69px;
+  top: 67px;
+}
+.ofertas {
+  color: #ffffff;
+  text-align: center;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 2062px;
+  top: 70px;
+  width: 449.92px;
+  height: 59px;
+}
+.rectangle-10 {
+  background: #0c4383;
+  width: 457.23px;
+  height: 62px;
+  position: absolute;
+  left: 2594.39px;
+  top: 67px;
+}
+.m-s-comprados {
+  color: #ffffff;
+  text-align: center;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 2601.69px;
+  top: 67px;
+  width: 449.92px;
+  height: 59px;
+}
+.rectangle-13 {
+  background: #0c4383;
+  width: 288px;
+  height: 62px;
+  position: absolute;
+  left: 903px;
+  top: 64px;
+}
+.inicio {
+  color: #ffffff;
+  text-align: center;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 908px;
+  top: 64px;
+  width: 283px;
+  height: 59px;
+}
+.rectangle-12 {
+  background: #22a0b6;
+  width: 358px;
+  height: 62px;
+  position: absolute;
+  left: 3773px;
+  top: 67px;
+}
+.mi-cesta {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 3779px;
+  top: 70px;
+  width: 352px;
+  height: 59px;
+}
+.shopping-cart-fill-0-wght-300-grad-200-opsz-48-1 {
+  width: 71px;
+  height: 53px;
+  position: absolute;
+  left: 4046px;
+  top: 73px;
+}
+.frame-1 {
+  background: #071e26;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px;
+  width: 2543px;
+  height: 848px;
+  position: absolute;
+  left: 1236px;
+  top: 464px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow-y: auto;
+}
+.group-3 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-6 {
+  background: #06394c;
+  width: 2506px;
+  height: 364px;
+  position: absolute;
+  left: 18px;
+  top: 30px;
+}
+.ellipse-2 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 359px;
+  height: 364px;
+  position: absolute;
+  left: 18px;
+  top: 30px;
+}
+.ellipse-3 {
+  border-radius: 50%;
+  width: 359px;
+  height: 364px;
+  position: absolute;
+  left: 18px;
+  top: 30px;
+}
+.info {
+  width: 2018px;
+  height: 325px;
+  position: static;
+}
+.comercio-aurora {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 2078px;
+  top: 51px;
+  width: 446px;
+  height: 46px;
+}
+.ver-producto {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 918px;
+  top: 67px;
+  width: 317px;
+  height: 46px;
+}
+.valor-780 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 507px;
+  top: 113px;
+  width: 446px;
+}
+.coca-cola-zero {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 67px;
+  width: 446px;
+  height: 46px;
+}
+.av-valpara-so-654 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 2053px;
+  top: 90px;
+  width: 434px;
+  height: 37px;
+}
+.cantidad-2 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 507px;
+  top: 153px;
+  width: 356px;
+  height: 50px;
+}
+.total-1560 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 507px;
+  top: 326px;
+  width: 356px;
+  height: 50px;
+}
+.rectangle-14 {
+  background: #d9d9d9;
+  width: 49px;
+  height: 43px;
+  position: absolute;
+  left: 938px;
+  top: 322px;
+}
+.rectangle-15 {
+  background: #d9d9d9;
+  width: 49px;
+  height: 43px;
+  position: absolute;
+  left: 1271px;
+  top: 322px;
+}
+.comprar {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 1006px;
+  top: 317px;
+  width: 229px;
+  height: 52px;
+}
+.reservar {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 1339px;
+  top: 312px;
+  width: 229px;
+  height: 52px;
+}
+.check-fill-0-wght-400-grad-0-opsz-24-1 {
+  width: 49px;
+  height: 43px;
+  position: absolute;
+  left: 938px;
+  top: 322px;
+}
+.group-5 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-62 {
+  background: #06394c;
+  width: 2506px;
+  height: 364px;
+  position: absolute;
+  left: 18px;
+  top: 445px;
+}
+.ellipse-22 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 359px;
+  height: 364px;
+  position: absolute;
+  left: 18px;
+  top: 445px;
+}
+.ellipse-32 {
+  border-radius: 50%;
+  width: 359px;
+  height: 364px;
+  position: absolute;
+  left: 18px;
+  top: 445px;
+}
+.comercio-olfos {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 2078px;
+  top: 466px;
+  width: 446px;
+  height: 46px;
+}
+.ver-producto2 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 918px;
+  top: 482px;
+  width: 317px;
+  height: 46px;
+}
+.valor-750 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 507px;
+  top: 528px;
+  width: 446px;
+}
+.coca-cola-motion {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 506px;
+  top: 482px;
+  width: 446px;
+  height: 46px;
+}
+.av-valpara-so-876 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 2053px;
+  top: 505px;
+  width: 434px;
+  height: 37px;
+}
+.cantidad-22 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 507px;
+  top: 568px;
+  width: 356px;
+  height: 50px;
+}
+.total-1500 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 507px;
+  top: 741px;
+  width: 356px;
+  height: 50px;
+}
+.rectangle-142 {
+  background: #d9d9d9;
+  width: 49px;
+  height: 43px;
+  position: absolute;
+  left: 938px;
+  top: 737px;
+}
+.rectangle-152 {
+  background: #d9d9d9;
+  width: 49px;
+  height: 43px;
+  position: absolute;
+  left: 1271px;
+  top: 737px;
+}
+.comprar2 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 1006px;
+  top: 732px;
+  width: 229px;
+  height: 52px;
+}
+.reservar2 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 1339px;
+  top: 727px;
+  width: 229px;
+  height: 52px;
+}
+.check-fill-0-wght-400-grad-0-opsz-24-12 {
+  width: 49px;
+  height: 43px;
+  position: absolute;
+  left: 938px;
+  top: 737px;
+}
+.frame-2 {
+  background: #071e26;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 2px;
+  width: 2543px;
+  height: 430px;
+  position: absolute;
+  left: 1236px;
+  top: 1543px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  overflow-y: auto;
+}
+.group-4 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-63 {
+  background: #06394c;
+  width: 2506px;
+  height: 364px;
+  position: absolute;
+  left: 19px;
+  top: 26px;
+}
+.ellipse-23 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 359px;
+  height: 364px;
+  position: absolute;
+  left: 19px;
+  top: 26px;
+}
+.ellipse-33 {
+  border-radius: 50%;
+  width: 359px;
+  height: 364px;
+  position: absolute;
+  left: 19px;
+  top: 26px;
+}
+.comercio-poh-che {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 2079px;
+  top: 47px;
+  width: 446px;
+  height: 46px;
+}
+.ver-producto3 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 919px;
+  top: 63px;
+  width: 317px;
+  height: 46px;
+}
+.valor-850 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 508px;
+  top: 109px;
+  width: 446px;
+}
+.fanta-pomelo {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 507px;
+  top: 63px;
+  width: 446px;
+  height: 46px;
+}
+.zandy-za-artu-6753 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 2054px;
+  top: 86px;
+  width: 434px;
+  height: 37px;
+}
+.cantidad-4 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 508px;
+  top: 149px;
+  width: 356px;
+  height: 50px;
+}
+.total-3400 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 508px;
+  top: 322px;
+  width: 356px;
+  height: 50px;
+}
+.rectangle-143 {
+  background: #d9d9d9;
+  width: 49px;
+  height: 43px;
+  position: absolute;
+  left: 939px;
+  top: 318px;
+}
+.rectangle-153 {
+  background: #d9d9d9;
+  width: 49px;
+  height: 43px;
+  position: absolute;
+  left: 1272px;
+  top: 318px;
+}
+.comprar3 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 1007px;
+  top: 313px;
+  width: 229px;
+  height: 52px;
+}
+.reservar3 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  text-decoration: underline;
+  position: absolute;
+  left: 1340px;
+  top: 308px;
+  width: 229px;
+  height: 52px;
+}
+.check-fill-0-wght-400-grad-0-opsz-24-13 {
+  width: 49px;
+  height: 43px;
+  position: absolute;
+  left: 1272px;
+  top: 317px;
+}
+.total-compra-3060 {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 1254px;
+  top: 1363px;
+  width: 480px;
+  height: 49px;
+}
+.reserva-4-productos {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 1254px;
+  top: 2022px;
+  width: 480px;
+  height: 49px;
+}
+.group-6 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-16 {
+  background: #0c4383;
+  border-radius: 10px;
+  width: 437px;
+  height: 49px;
+  position: absolute;
+  left: 1861px;
+  top: 1363px;
+}
+.pago-seguro {
+  color: #ffffff;
+  text-align: left;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 1915px;
+  top: 1363px;
+  width: 323px;
+  height: 39px;
+}
+.security-fill-0-wght-400-grad-0-opsz-24-1 {
+  width: 60px;
+  height: 49px;
+  position: absolute;
+  left: 2238px;
+  top: 1363px;
+}
+.group-7 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-162 {
+  background: #0c4383;
+  border-radius: 10px;
+  width: 437px;
+  height: 49px;
+  position: absolute;
+  left: 1861px;
+  top: 2022px;
+}
+.reservar4 {
+  color: #ffffff;
+  text-align: center;
+  font: 800 40px "Inter", sans-serif;
+  position: absolute;
+  left: 1861px;
+  top: 2025px;
+  width: 436px;
+  height: 39px;
+}
